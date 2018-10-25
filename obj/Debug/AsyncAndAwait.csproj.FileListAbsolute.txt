@@ -1,0 +1,7 @@
+C:\Users\Lokesh\source\repos\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+C:\Users\Lokesh\source\repos\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
+C:\Users\Lokesh\source\repos\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
+C:\Users\Lokesh\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.csprojAssemblyReference.cache
+C:\Users\Lokesh\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\Lokesh\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+C:\Users\Lokesh\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
